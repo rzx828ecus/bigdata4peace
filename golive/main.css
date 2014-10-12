@@ -1,0 +1,13 @@
+#username_input {
+	width: 200px !important;
+	float: right !important;
+}
+#login-form {
+	cursor: pointer;
+}
+#password_input {
+	float: right;
+}
+#usual {
+	float: right;
+}
